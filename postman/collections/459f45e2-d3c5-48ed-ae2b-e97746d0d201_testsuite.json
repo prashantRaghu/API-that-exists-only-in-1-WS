@@ -1,13 +1,12 @@
 {
     "info": {
-        "_postman_id": "a11e188a-9155-4b91-b83e-8a543c70771f",
+        "_postman_id": "7fc5e243-0e0d-4727-982c-d3b1fb1a27cb",
         "name": "ghgj",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
             "name": "Sample endpoint: Returns details about a particulas .",
-            "id": "8db29f2b-3eae-4413-9de1-e2689f103a4d",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },
@@ -31,92 +30,37 @@
                     ]
                 }
             },
-            "response": [
-                {
-                    "id": "cfdfb6e9-e7c6-404d-bcf0-c7372c582fa6",
-                    "name": "Sample response: Details about a user by ID",
-                    "originalRequest": {
-                        "method": "GET",
-                        "header": [],
-                        "url": {
-                            "raw": "{{baseUrl}}/user?id=-77623654",
-                            "host": [
-                                "{{baseUrl}}"
-                            ],
-                            "path": [
-                                "user"
-                            ],
-                            "query": [
-                                {
-                                    "key": "id",
-                                    "value": "-77623654"
-                                }
-                            ]
-                        }
-                    },
-                    "status": "OK",
-                    "code": 200,
-                    "_postman_previewlanguage": "json",
-                    "header": [
-                        {
-                            "disabled": false,
-                            "description": "A link to the next page of responses",
-                            "key": "x-next",
-                            "value": "voluptate ut in nisi in"
-                        },
-                        {
-                            "key": "Content-Type",
-                            "value": "application/json"
-                        }
-                    ],
-                    "cookie": [],
-                    "responseTime": null,
-                    "body": "{\n \"id\": -49594327,\n \"name\": \"laborum\",\n \"tag\": \"commodo quis fugiat nisi voluptate\"\n}"
-                },
-                {
-                    "id": "d29b8e56-ce87-4642-a032-a5be652d4ded",
-                    "name": "Unexpected error",
-                    "originalRequest": {
-                        "method": "GET",
-                        "header": [],
-                        "url": {
-                            "raw": "{{baseUrl}}/user?id=-77623654",
-                            "host": [
-                                "{{baseUrl}}"
-                            ],
-                            "path": [
-                                "user"
-                            ],
-                            "query": [
-                                {
-                                    "key": "id",
-                                    "value": "-77623654"
-                                }
-                            ]
-                        }
-                    },
-                    "status": "Internal Server Error",
-                    "code": 500,
-                    "_postman_previewlanguage": "json",
-                    "header": [
-                        {
-                            "key": "Content-Type",
-                            "value": "application/json"
-                        }
-                    ],
-                    "cookie": [],
-                    "responseTime": null,
-                    "body": "{\n \"code\": -9250461,\n \"message\": \"nostrud\"\n}"
-                }
-            ]
+            "response": []
+        }
+    ],
+    "event": [
+        {
+            "listen": "prerequest",
+            "script": {
+                "type": "text/javascript",
+                "exec": [
+                    ""
+                ]
+            }
+        },
+        {
+            "listen": "test",
+            "script": {
+                "type": "text/javascript",
+                "exec": [
+                    "das"
+                ]
+            }
         }
     ],
     "variable": [
         {
-            "id": "82c1016a-4844-4458-916b-c2667f01888f",
             "key": "baseUrl",
-            "value": "http://localhost:3000",
-            "type": "string"
+            "value": "http://localhost:3000"
+        },
+        {
+            "key": "dsa",
+            "value": "sda"
         }
     ]
 }

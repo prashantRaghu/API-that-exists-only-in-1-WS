@@ -1,6 +1,6 @@
 {
     "info": {
-        "_postman_id": "5e959e34-c02a-4388-8044-87b621f7b123",
+        "_postman_id": "6c54e01d-f0b1-4a24-9b14-4eb78a958908",
         "name": "ghgj",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
@@ -56,7 +56,7 @@
     "variable": [
         {
             "key": "baseUrl",
-            "value": "http://localhost:30"
+            "value": "http://localhost:30gyuj"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "info": {
-        "_postman_id": "7fc5e243-0e0d-4727-982c-d3b1fb1a27cb",
+        "_postman_id": "76063345-aa9c-412b-b567-808faa9b529f",
         "name": "ghgj",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas .",
+            "name": "Sample endpoint: Returns details about a particulas USER",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },

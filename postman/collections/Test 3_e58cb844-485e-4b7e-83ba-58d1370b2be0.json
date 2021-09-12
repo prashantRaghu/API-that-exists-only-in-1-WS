@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "78f64057-b8b6-44a6-a9f9-17444a58bdab",
-        "name": "Test 3 - upd",
+        "name": "Test 3 - up",
         "description": "API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postmans\n\nContact Support:\n Name: Postman Team\n Email: simplekart@postman.com",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },

@@ -1,12 +1,12 @@
 {
     "info": {
-        "_postman_id": "76063345-aa9c-412b-b567-808faa9b529f",
+        "_postman_id": "290c427e-3f40-4d5c-89d8-7d67d1b155b4",
         "name": "ghgj",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas USER",
+            "name": "Sample endpoint: Returns details about a particulas .",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },
@@ -61,6 +61,10 @@
         {
             "key": "dsa",
             "value": "sda2"
+        },
+        {
+            "key": "cs",
+            "value": "ds"
         }
     ]
 }

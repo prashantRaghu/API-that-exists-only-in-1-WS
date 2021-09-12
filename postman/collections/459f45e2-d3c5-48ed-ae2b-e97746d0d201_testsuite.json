@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas.ss",
+            "name": "Sample endpoint: Returns details about a particulas.sws",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },

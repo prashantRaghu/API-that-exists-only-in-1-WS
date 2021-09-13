@@ -29,11 +29,11 @@
     "variable": [
         {
             "key": "baseUrl",
-            "value": "https://simplekart.postman.c"
+            "value": "https://simplekart.postman.rs"
         },
         {
             "key": "baseUrl2",
-            "value": "https://simplekart.postman.c"
+            "value": "https://simplekart.postman.rs"
         }
     ]
 }

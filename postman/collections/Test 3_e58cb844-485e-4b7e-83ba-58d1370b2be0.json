@@ -30,6 +30,10 @@
         {
             "key": "baseUrl",
             "value": "https://simplekart.postman.co"
+        },
+        {
+            "key": "baseUrl2",
+            "value": "https://simplekart.postman.com"
         }
     ]
 }

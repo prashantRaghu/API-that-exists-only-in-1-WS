@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas.swsdsad",
+            "name": "Sample endpoint: Returns details about a particulas",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },

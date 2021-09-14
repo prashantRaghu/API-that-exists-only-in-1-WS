@@ -23,7 +23,7 @@ paths:
         description: Id of the item to pull details of
         required: true
     get:
-      summary: 'Get item details from the database '
+      summary: 'Get item details from the database'
       tags:
         - item
       responses:

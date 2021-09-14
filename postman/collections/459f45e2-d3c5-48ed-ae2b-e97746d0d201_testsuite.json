@@ -1,0 +1,70 @@
+{
+    "info": {
+        "_postman_id": "24a5ac5f-af66-4c24-89e2-f5b1e6f69912",
+        "name": "ghgj",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Sample endpoint: Returns details about a particulas.swsdsad",
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/user?id=-77623654",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "user"
+                    ],
+                    "query": [
+                        {
+                            "key": "id",
+                            "value": "-77623654",
+                            "description": "(Required) "
+                        }
+                    ]
+                }
+            },
+            "response": []
+        }
+    ],
+    "event": [
+        {
+            "listen": "prerequest",
+            "script": {
+                "type": "text/javascript",
+                "exec": [
+                    ""
+                ]
+            }
+        },
+        {
+            "listen": "test",
+            "script": {
+                "type": "text/javascript",
+                "exec": [
+                    "das"
+                ]
+            }
+        }
+    ],
+    "variable": [
+        {
+            "key": "baseUrl",
+            "value": "http://localhost:30"
+        },
+        {
+            "key": "dsa",
+            "value": "sda2"
+        },
+        {
+            "key": "cs",
+            "value": "dsdd"
+        }
+    ]
+}

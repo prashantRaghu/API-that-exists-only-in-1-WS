@@ -1,12 +1,13 @@
 {
     "info": {
-        "_postman_id": "290c427e-3f40-4d5c-89d8-7d67d1b155b4",
+        "_postman_id": "a11e188a-9155-4b91-b83e-8a543c70771f",
         "name": "ghssgj. dsa",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas.sws",
+            "name": "Sample endpoint: Returns details about a particulas.sws. dasd",
+            "id": "799a151e-268f-4b64-9a3f-cb8eeb42a3c0",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },
@@ -55,14 +56,17 @@
     ],
     "variable": [
         {
+            "id": "fc8825ba-3f73-4119-9aa6-046083ccef89",
             "key": "baseUrl",
             "value": "http://localhost:30"
         },
         {
+            "id": "7d9fb372-bbed-4213-acc4-86a3e9cc71ca",
             "key": "dsa",
             "value": "sda2"
         },
         {
+            "id": "34b9c9a5-5f60-49dc-a364-a3cee66bd2d9",
             "key": "cs",
             "value": "dsdd"
         }

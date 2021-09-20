@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "df03c18f-d2ba-417a-aa33-c69a911e0835",
-        "name": "Test 1 - updated again and again not again nlk",
+        "name": "Test 1 - updated again and again not again.",
         "description": "API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postmans\n\nContact Support:\n Name: Postman Team\n Email: simplekart@postman.com",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },

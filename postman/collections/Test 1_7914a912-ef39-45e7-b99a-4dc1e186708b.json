@@ -10,7 +10,7 @@
             "name": "items",
             "item": [
                 {
-                    "name": "Get items from the database",
+                    "name": "Get items from the databas",
                     "request": {
                         "method": "GET",
                         "header": [],

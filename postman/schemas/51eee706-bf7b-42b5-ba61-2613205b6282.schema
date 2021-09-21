@@ -4,10 +4,10 @@ info:
   version: 1.0.
   contact:
     name: Postman Teams
-    email: simplekart@postman.com
+    email: simplekart@postman.co
   description: API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postman
 servers:
-  - url: 'https://simplekart.postman.coms'
+  - url: 'https://simplekart.postman.com'
 paths:
   '/items/{itemId}':
     parameters:

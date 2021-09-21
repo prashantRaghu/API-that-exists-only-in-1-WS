@@ -7,7 +7,7 @@ info:
     email: simplekart@postman.com
   description: API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postman
 servers:
-  - url: 'https://simplekart.postman.com'
+  - url: 'https://simplekart.postman.coms'
 paths:
   '/items/{itemId}':
     parameters:

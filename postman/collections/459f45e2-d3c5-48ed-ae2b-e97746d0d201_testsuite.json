@@ -1,7 +1,7 @@
 {
     "info": {
-        "_postman_id": "24a5ac5f-af66-4c24-89e2-f5b1e6f69912",
-        "name": "ghgj",
+        "_postman_id": "0574829c-372b-4a38-a161-215d4e80d579",
+        "name": "ghgjguy",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
@@ -14,7 +14,7 @@
                 "method": "GET",
                 "header": [],
                 "url": {
-                    "raw": "{{baseUrl}}/user?id=-77623654",
+                    "raw": "{{baseUrl}}/user?id=-77623654h",
                     "host": [
                         "{{baseUrl}}"
                     ],
@@ -24,7 +24,7 @@
                     "query": [
                         {
                             "key": "id",
-                            "value": "-77623654",
+                            "value": "-77623654h",
                             "description": "(Required) "
                         }
                     ]

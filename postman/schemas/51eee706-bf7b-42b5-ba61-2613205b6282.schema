@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: SimpleKart E-commerce
+  title: SimpleKart E-commerces
   version: 1.0.
   contact:
     name: Postman Teams

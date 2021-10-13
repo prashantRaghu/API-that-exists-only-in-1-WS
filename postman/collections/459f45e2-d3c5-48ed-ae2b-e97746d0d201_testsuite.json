@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particular",
+            "name": "Sample endpoint: Returns details about a particular.",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },

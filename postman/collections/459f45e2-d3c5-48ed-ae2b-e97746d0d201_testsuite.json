@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas.sws. dasd",
+            "name": "Sample endpoint: Returns details about a particulas.sws. ",
             "id": "799a151e-268f-4b64-9a3f-cb8eeb42a3c0",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true

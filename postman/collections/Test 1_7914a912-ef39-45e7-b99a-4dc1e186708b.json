@@ -10,7 +10,7 @@
             "name": "items",
             "item": [
                 {
-                    "name": "Get items from the databd",
+                    "name": "Get items from the daabd",
                     "request": {
                         "method": "GET",
                         "header": [],

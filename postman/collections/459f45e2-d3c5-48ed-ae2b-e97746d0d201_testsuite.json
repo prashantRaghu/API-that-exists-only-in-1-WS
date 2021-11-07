@@ -1,13 +1,13 @@
 {
     "info": {
-        "_postman_id": "a11e188a-9155-4b91-b83e-8a543c70771f",
-        "name": "ghssgj. dsa",
+        "_postman_id": "6abc4f00-93e6-43d9-980b-d3dc04d008e7",
+        "name": "ghss ...",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulas.sws ",
-            "id": "799a151e-268f-4b64-9a3f-cb8eeb42a3c0",
+            "name": "Sample endpoint: Returns details about a particulas.sws. dasd",
+            "id": "5a723c80-3377-4dd4-815f-7df510cccced",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },
@@ -38,6 +38,7 @@
         {
             "listen": "prerequest",
             "script": {
+                "id": "f30ed662-d715-4c3c-8efc-cb4f2268bab8",
                 "type": "text/javascript",
                 "exec": [
                     ""
@@ -47,28 +48,34 @@
         {
             "listen": "test",
             "script": {
+                "id": "37fbcf2a-b3bc-4b3b-9a12-845467ba3e5a",
                 "type": "text/javascript",
                 "exec": [
-                    "das"
+                    "dasj"
                 ]
             }
         }
     ],
     "variable": [
         {
-            "id": "fc8825ba-3f73-4119-9aa6-046083ccef89",
+            "id": "007d8399-ac0b-49e5-89cc-98e616fd6176",
             "key": "baseUrl",
             "value": "http://localhost:30"
         },
         {
-            "id": "7d9fb372-bbed-4213-acc4-86a3e9cc71ca",
+            "id": "0d8c68d4-d765-4bd6-bbbc-8c4256da324c",
             "key": "dsa",
             "value": "sda2"
         },
         {
-            "id": "34b9c9a5-5f60-49dc-a364-a3cee66bd2d9",
+            "id": "bfe81ca1-4e68-4046-af7c-e92449dbe62a",
             "key": "cs",
             "value": "dsdd"
+        },
+        {
+            "id": "85071254-e15a-4219-9b8b-ed06bcbb536f",
+            "key": "dsa",
+            "value": "s"
         }
     ]
 }

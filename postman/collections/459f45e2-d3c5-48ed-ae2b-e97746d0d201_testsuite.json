@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "6abc4f00-93e6-43d9-980b-d3dc04d008e7",
-        "name": "ghss ...",
+        "name": "ghss .",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
@@ -58,22 +58,22 @@
     ],
     "variable": [
         {
-            "id": "007d8399-ac0b-49e5-89cc-98e616fd6176",
+            "id": "1b43b6fe-9927-4128-9937-e66d8bf7266f",
             "key": "baseUrl",
             "value": "http://localhost:30"
         },
         {
-            "id": "0d8c68d4-d765-4bd6-bbbc-8c4256da324c",
+            "id": "4ca40f5a-fc12-42f4-92e2-33540c0683fd",
             "key": "dsa",
             "value": "sda2"
         },
         {
-            "id": "bfe81ca1-4e68-4046-af7c-e92449dbe62a",
+            "id": "1ae30a06-0eb0-4a02-a538-a2734629f939",
             "key": "cs",
             "value": "dsdd"
         },
         {
-            "id": "85071254-e15a-4219-9b8b-ed06bcbb536f",
+            "id": "804f59d3-3452-4551-996c-6990fe4e94ea",
             "key": "dsa",
             "value": "s"
         }

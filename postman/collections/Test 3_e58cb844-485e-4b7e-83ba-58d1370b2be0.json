@@ -1,13 +1,13 @@
 {
     "info": {
         "_postman_id": "78f64057-b8b6-44a6-a9f9-17444a58bdab",
-        "name": "Test 3 dsad s",
+        "name": "Test 3 dsad s dsadas",
         "description": "API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postmans\n\nContact Support:\n Name: Postman Team\n Email: simplekart@postman.com",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "items",
+            "name": "items dasdas",
             "item": [
                 {
                     "name": "Get items from the database",
@@ -473,21 +473,24 @@
             "id": "2a1cbfc8-8852-4f08-a832-911e8783185f"
         }
     ],
+    "auth": {
+        "type": "bearer"
+    },
     "event": [
         {
             "listen": "prerequest",
             "script": {
-                "id": "b82e4139-fd7f-4750-a5b9-e063e51a173a",
+                "id": "ea793c18-a5aa-46ab-b85e-73b337f3675c",
                 "type": "text/javascript",
                 "exec": [
-                    ""
+                    "das"
                 ]
             }
         },
         {
             "listen": "test",
             "script": {
-                "id": "9d58f727-f7fc-4d37-bfd3-8f1d4c4be294",
+                "id": "d0b142a7-33c1-4143-a8fc-5043b3580159",
                 "type": "text/javascript",
                 "exec": [
                     "dasds"
@@ -497,9 +500,18 @@
     ],
     "variable": [
         {
-            "id": "390fb33c-a48a-4aa5-a360-bf9d0faf15db",
+            "id": "101a83d9-d325-417f-b179-4c06566c7b28",
             "key": "baseUrl",
             "value": "https://simplekart.postman.com"
+        },
+        {
+            "id": "fdb399ff-b636-4560-9d27-b23d41c5480e",
+            "key": "dasdsa",
+            "value": "sda"
+        },
+        {
+            "id": "d5014d95-6b07-49a5-aa2c-48e30449dd01",
+            "value": "dasdas"
         }
     ]
 }

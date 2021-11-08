@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "78f64057-b8b6-44a6-a9f9-17444a58bdab",
-        "name": "Test 3",
+        "name": "Test 3 dsad",
         "description": "API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postmans\n\nContact Support:\n Name: Postman Team\n Email: simplekart@postman.com",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
@@ -473,12 +473,33 @@
             "id": "2a1cbfc8-8852-4f08-a832-911e8783185f"
         }
     ],
+    "event": [
+        {
+            "listen": "prerequest",
+            "script": {
+                "id": "b82e4139-fd7f-4750-a5b9-e063e51a173a",
+                "type": "text/javascript",
+                "exec": [
+                    ""
+                ]
+            }
+        },
+        {
+            "listen": "test",
+            "script": {
+                "id": "9d58f727-f7fc-4d37-bfd3-8f1d4c4be294",
+                "type": "text/javascript",
+                "exec": [
+                    "dasds"
+                ]
+            }
+        }
+    ],
     "variable": [
         {
-            "id": "f3a9ee41-a5d6-43bc-8f7d-c9e22542befd",
+            "id": "4e56537c-18ff-4a67-b4d5-2f606b932348",
             "key": "baseUrl",
-            "value": "https://simplekart.postman.com",
-            "type": "string"
+            "value": "https://simplekart.postman.com"
         }
     ]
 }

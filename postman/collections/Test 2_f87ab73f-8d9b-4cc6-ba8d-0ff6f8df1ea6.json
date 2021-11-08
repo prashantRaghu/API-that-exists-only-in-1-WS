@@ -88,7 +88,6 @@
                             ],
                             "variable": [
                                 {
-                                    "id": "7cebd11c-eaf9-417b-8b9b-08aecf29ace6",
                                     "key": "itemId",
                                     "value": "1657",
                                     "description": "(Required) Id of the item to pull details of"
@@ -352,7 +351,6 @@
                             ],
                             "variable": [
                                 {
-                                    "id": "c7b05e47-cec0-430e-a1a5-617d4dc1f1e3",
                                     "key": "orderId",
                                     "value": "674",
                                     "description": "(Required) "
@@ -473,12 +471,33 @@
             "id": "086efeae-7866-4dd3-898c-79371fb76101"
         }
     ],
+    "event": [
+        {
+            "listen": "prerequest",
+            "script": {
+                "id": "04f0f259-763d-421f-9ebf-845de42dcc40",
+                "type": "text/javascript",
+                "exec": [
+                    ""
+                ]
+            }
+        },
+        {
+            "listen": "test",
+            "script": {
+                "id": "9de135a2-ec5d-4099-b866-878cd05b0064",
+                "type": "text/javascript",
+                "exec": [
+                    "DASDSA"
+                ]
+            }
+        }
+    ],
     "variable": [
         {
-            "id": "f73a76bf-ed61-42b2-8a29-2460915b07f2",
+            "id": "0bcff93f-2ceb-4fd0-a53f-48ec1d467a59",
             "key": "baseUrl",
-            "value": "https://simplekart.postman.com",
-            "type": "string"
+            "value": "https://simplekart.postman.com"
         }
     ]
 }

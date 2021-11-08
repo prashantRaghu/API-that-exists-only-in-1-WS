@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "78f64057-b8b6-44a6-a9f9-17444a58bdab",
-        "name": "Test 3 dsad s dsadas",
+        "name": "Test 3 dsad s s",
         "description": "API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postmans\n\nContact Support:\n Name: Postman Team\n Email: simplekart@postman.com",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
@@ -474,13 +474,20 @@
         }
     ],
     "auth": {
-        "type": "bearer"
+        "type": "bearer",
+        "bearer": [
+            {
+                "key": "token",
+                "value": "dsad",
+                "type": "string"
+            }
+        ]
     },
     "event": [
         {
             "listen": "prerequest",
             "script": {
-                "id": "ea793c18-a5aa-46ab-b85e-73b337f3675c",
+                "id": "f951a04c-dd91-4486-a0b1-d5b36a7dc46f",
                 "type": "text/javascript",
                 "exec": [
                     "das"
@@ -490,7 +497,7 @@
         {
             "listen": "test",
             "script": {
-                "id": "d0b142a7-33c1-4143-a8fc-5043b3580159",
+                "id": "df2cc886-0966-44ce-b61e-8ed1fc61921f",
                 "type": "text/javascript",
                 "exec": [
                     "dasds"
@@ -500,18 +507,18 @@
     ],
     "variable": [
         {
-            "id": "101a83d9-d325-417f-b179-4c06566c7b28",
+            "id": "ee79cce1-af0b-49ab-a810-8f37581b2006",
             "key": "baseUrl",
-            "value": "https://simplekart.postman.com"
+            "value": "https://simplekart.postman.comss"
         },
         {
-            "id": "fdb399ff-b636-4560-9d27-b23d41c5480e",
+            "id": "de898aab-353e-47ab-b404-3df7a2527d20",
             "key": "dasdsa",
             "value": "sda"
         },
         {
-            "id": "d5014d95-6b07-49a5-aa2c-48e30449dd01",
-            "value": "dasdas"
+            "id": "8defd788-2e0b-4a59-abdd-eff8867af4e4",
+            "value": "dasdasDASDSAss"
         }
     ]
 }

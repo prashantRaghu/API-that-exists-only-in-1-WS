@@ -1,13 +1,13 @@
 {
     "info": {
-        "_postman_id": "6abc4f00-93e6-43d9-980b-d3dc04d008e7",
-        "name": "ghsskk[dsa",
+        "_postman_id": "bc956604-1a74-499b-8757-d782346610be",
+        "name": "ghsskk[ds",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
             "name": "Sample endpoint: Returns details about a particulas.sws. dasds",
-            "id": "5a723c80-3377-4dd4-815f-7df510cccced",
+            "id": "3bb3244a-be48-44ea-8588-ae629fbb2749",
             "protocolProfileBehavior": {
                 "disableBodyPruning": true
             },

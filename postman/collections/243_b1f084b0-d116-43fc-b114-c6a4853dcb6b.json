@@ -10,7 +10,7 @@
             "name": "items",
             "item": [
                 {
-                    "name": "Get items from the database",
+                    "name": "Get items from the databases",
                     "id": "c11016d2-587b-41a9-b117-461af9549b77",
                     "request": {
                         "method": "GET",
